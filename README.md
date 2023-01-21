@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Tonio635&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonio635&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonio635&layout=compact&theme=dark&langs_count=8" />
 </div>
