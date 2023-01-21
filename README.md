@@ -15,10 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:zap: GitHub Stats
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tonio635&show_icons=true&theme=dark)
+<h2>🏆 Github Profile Trophy</h2>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=Tonio635&column=8&theme=onedark&no-frame=true"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Tonio635&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tonio635&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Tonio635&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonio635&layout=compact&theme=dark" />
+</div>
