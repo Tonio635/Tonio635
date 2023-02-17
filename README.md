@@ -18,11 +18,14 @@ Here are some ideas to get you started:
 <h2>🏆 Github Profile Trophy</h2>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=Tonio635&column=8&theme=onedark&no-frame=true"/>
 
-
-
 ---
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Tonio635&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tonio635&layout=compact&theme=dark&langs_count=10" />
 </div>
+
+---
+
+<h2>👀 Profile Views</h2>
+<img src="https://profile-counter.glitch.me/tonio635/count.svg" />
