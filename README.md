@@ -30,8 +30,8 @@ I'm a passionate Computer Scientist from Italy, currently pursuing a Master's de
 ---
 
 ### 📫 How to reach me
-- Email: [antonio.doronzo.work@gmail.com](mailto:antonio.doronzo.work@gmail.com)
-- LinkedIn: [linkedin.com/in/antonio-doronzo](https://linkedin.com/in/antonio-doronzo)
-- GitHub: [github.com/Tonio635](https://github.com/Tonio635)
+- Email: [antoniodoronzo7@gmail.com](mailto:antoniodoronzo7@gmail.com)
+- LinkedIn: [linkedin.com/in/antonio-giuseppe-doronzo](https://linkedin.com/in/antonio-giuseppe-doronzo)
+- Telegram: [@Tonio635](https://t.me/Tonio635)
 
 ---
